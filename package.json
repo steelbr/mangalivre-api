@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/iShi0n/manga-api-express#readme",
   "dependencies": {
-    "ejs": "^3.1.5",
-    "express": "^4.17.1",
-    "got": "^11.8.0"
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "got": "^11.8.6"
   }
 }
